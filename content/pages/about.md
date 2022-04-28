@@ -9,13 +9,6 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es **Jorge Luis Santigo Canto*, Actualmente me encuentro estudiando en la UAM-Xochimilco en la licenciatura de Biologia;Es una ciencia que me apasiona mucho
+sin emabargo no es la unica, desde pequeño la tecnologia me ha apasionado y mas el desarrollo de videojuegos, Con Innvoaccion tuve la oportunidad de aprender el desarrolloweb, con esto espero crecer mas en este mundo de la programacion!
 
