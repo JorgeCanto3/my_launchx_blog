@@ -6,3 +6,9 @@ Cuento con mas contenido, Soy un explorer que estuvo en Onboarding y en Front En
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+
+p: Con la parte de BackEnd espero tener un mayor conocimiento en los siguientes apartados:
+-JavaScript
+-NodeJs
+-Git y Github
+-Facilidad al programar un tanto mas automatico o sin dependencia mirar a otros codigos
