@@ -28,7 +28,7 @@ jobs:
         mv public/ docs/
         git config --global user.email "launchx09367@innovaccion.mx"
         git config --global user.name "JorgeCanto3"
-        git add .
+       
         git commit -m "GitHub Actions: Build ok"
     - name: Push changes
       uses: ad-m/github-push-action@master
