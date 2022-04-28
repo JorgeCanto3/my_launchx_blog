@@ -15,7 +15,7 @@ jobs:
     - name: Setup GoHugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.97.3'
+        hugo-version: '0.97.3-078053a43d746a26aa3d48cf1ec7122ae78a9bb4'
     - name: Commit Update
       run: |
         echo ":: Eliminando versión previa ::"
