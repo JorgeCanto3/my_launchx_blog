@@ -1,6 +1,6 @@
 baseURL = "https://jorgecanto3.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Jorge Canto"
+title = "Bitácora de Jorge Canto"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
